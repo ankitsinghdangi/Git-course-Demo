@@ -1,2 +1,5 @@
 Can add or remove users
-also have access to change the rule 
+also have access to change the rule
+
+Manage the database
+access provider
