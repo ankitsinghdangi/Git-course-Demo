@@ -3,3 +3,6 @@ process the user data
 
 Create an avtar for user 
 userdata is updated 
+
+Login and logout 
+logged in successfully 
