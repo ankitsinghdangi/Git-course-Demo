@@ -3,3 +3,6 @@ also have access to change the rule
 
 Manage the database
 access provider
+
+access given to 3
+feature3 access given
