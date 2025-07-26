@@ -5,5 +5,6 @@ Create an avtar for user
 userdata is updated 
 
 Login and logout 
-logged in successfully
-made changes in main userService
+logged in successfully 
+change to harsh database  
+  
