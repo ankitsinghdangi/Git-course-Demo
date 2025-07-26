@@ -1,7 +1,7 @@
 Can add or remove users
 also have access to change the rule
 
-Manage the database
+Manage the oracle database
 access provider
 
 access given to 3
